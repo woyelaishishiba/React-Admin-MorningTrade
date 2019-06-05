@@ -1,0 +1,32 @@
+[{
+    "id": 1,
+    "phoneNumber": "00000000001",
+    "starNum": 5,
+    "comments": "非常好吃，还会再来"
+},
+{
+    "id": 2,
+    "phoneNumber": "00000000002",
+    "starNum": 4.5,
+    "comments": "有自助的水果"
+},{
+    "id": 3,
+    "phoneNumber": "00000000003",
+    "starNum": 2,
+    "comments": "火锅很好吃"
+},{
+    "id": 4,
+    "phoneNumber": "00000000004",
+    "starNum": 3.5,
+    "comments": "价格太贵了"
+},{
+    "id": 5,
+    "phoneNumber": "00000000005",
+    "starNum": 5,
+    "comments": "感觉不好"
+},{
+    "id": 6,
+    "phoneNumber": "00000000006",
+    "starNum": 2.5,
+    "comments": "店主非常热情"
+}]
